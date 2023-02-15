@@ -10,6 +10,7 @@ public class Destroy : MonoBehaviour
     
     void Start()
     {
+        //уничтожает нужный объект
         Destroy(gameObject);
     }
 
